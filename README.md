@@ -44,6 +44,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Performance Engineering Methodologies - Web Application, SAP, PeopleSoft, Cloud, Mobile App, APIs**
 - **Load Testing Tools - LoadRunner, Jmeter, NeoLoad**
 - **Application Monitoring - Dynatrace, AppDynamics, Introscope**
+- **Automation engineering - HP QTP/UFT, Selenium**
 - **Certified Technology Architect**
   
 ## 📚 Current Studies
@@ -73,13 +74,10 @@ Brief description of Project 2.
 
 ## 🌟 Highlights
 - Strong foundation in both theoretical and practical aspects of AI and ML.
-- Extensive experience in web development using modern frameworks like Vue, Angular, and React.
-- Proven track record of optimizing performance in large-scale applications.
+- Extensive knowledge in web development using modern frameworks like Vue, Angular, and React.
+- Proven track record of Software Performance Engineering, optimizing in large-scale applications.
 
 ## ✍️ Recent Blog Posts
-- [Title of Blog Post 1](https://yourblog.com/blog-post-1)
-- [Title of Blog Post 2](https://yourblog.com/blog-post-2)
-
 ---
 
 *Feel free to reach out if you want to collaborate on any exciting projects or just want to chat about tech!*
