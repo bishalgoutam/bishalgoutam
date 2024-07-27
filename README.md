@@ -38,6 +38,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Machine Learning Algorithms**
 - **Artificial Intelligence**
 - **Deep Learning**
+- **Computer Vision**
 - **Data Science**  
 
 ### Performance Engineering
