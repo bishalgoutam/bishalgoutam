@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bishalgoutam/bishalgoutam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bishal 👋
 
 ## 🚀 About Me
 I'm a seasoned Software Engineer with 16 years of experience specializing as a Performance Engineer. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. Currently, I'm pursuing my MS in Artificial Intelligence, Machine Learning, and Software Development.
