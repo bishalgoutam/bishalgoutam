@@ -54,7 +54,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Bachelor of Engineering in Electronics and Communication Engineering (2003-2007, VTU, India)**
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bishal-goutam-9139451a/))
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bishal-goutam-9139451a/])
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
@@ -66,11 +66,12 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
   - Led performance optimization projects resulting in improved application efficiency.
 
 ## 📈 Projects
-### [Project Name 1](https://github.com/your-github-username/project1)
+<!--### [Project Name 1](https://github.com/your-github-username/project1)
 Brief description of Project 1.
 
 ### [Project Name 2](https://github.com/your-github-username/project2)
 Brief description of Project 2.
+-->
 
 ## 🌟 Highlights
 - Strong foundation in both theoretical and practical aspects of AI and ML.
