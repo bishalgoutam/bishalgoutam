@@ -54,7 +54,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Bachelor of Engineering in Electronics and Communication Engineering (2003-2007, VTU, India)**
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bishal-goutam-9139451a/)
+- [LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
