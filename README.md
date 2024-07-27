@@ -62,7 +62,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 💼 Experience
-- **Technology Architecture - Performance Engineering** at Accenture (2021 - Present)
+- **Technology Architecture - Performance Engineering** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
   - Led performance optimization projects resulting in improved application efficiency.
 
 ## 📈 Projects
