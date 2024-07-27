@@ -29,7 +29,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **JavaScript**
 - **Python**
 
-### Web Development
+### [Web Development](https://github.com/bishalgoutam/FrontendDeveloper-Portfolio)
 - **Vue.js**
 - **Angular**
 - **React**
@@ -41,7 +41,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Computer Vision**
 - **Data Science**  
 
-### Performance Engineering
+### [Performance Engineering](https://github.com/bishalgoutam/PerformanceEngineering-Portfolio)
 - **Performance Engineering Methodologies - Web Application, SAP, PeopleSoft, Cloud, Mobile App, APIs**
 - **Load Testing Tools - LoadRunner, Jmeter, NeoLoad**
 - **Application Monitoring - Dynatrace, AppDynamics, Introscope**
