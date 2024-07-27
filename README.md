@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 I'm a seasoned Software Engineer with 16 years of experience specializing as a Performance Engineer. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. Currently, I'm pursuing my MS in Artificial Intelligence, Machine Learning, and Software Development.
 
+## 🌱 Academics
+
+
 ## 🛠 Skills
 
 ### Programming Languages
@@ -36,19 +39,24 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 
 ### Machine Learning & Artificial Intelligence
 - **Machine Learning Algorithms**
-- **Deep Learning**
-- **Data Analysis**
-
-## 📚 Current Studies
-I'm currently pursuing my MS in:
 - **Artificial Intelligence**
-- **Machine Learning**
-- **Software Development**
+- **Deep Learning**
+- **Data Science**  
+
+### Performance Engineering
+- **Performance Engineering Methodologies - Web Application, SAP, PeopleSoft, Cloud, Mobile App, APIs**
+- **Load Testing Tools - LoadRunner, Jmeter, NeoLoad**
+- **Application Monitoring - Dynatrace, AppDynamics, Introscope**
+- **Certified Technology Architect**
+  
+## 📚 Current Studies
+- **Master of Science in Software Development (2022 - Present, Boston University, USA)**
+- **Master of Science in Artificial Intelligence and Machine Learning (2022 - Present, CSU-Global, USA)**
+- **Master of Science in Information Systems (2018-2019, FIU, USA)**
+- **Bachelor of Engineering in Electronics and Communication Engineering (2003-2007, VTU, India)**
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Blog](https://yourblog.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bishal-goutam-9139451a/))
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
@@ -56,9 +64,8 @@ I'm currently pursuing my MS in:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 💼 Experience
-- **Performance Engineer** at [Company Name] (Year - Present)
-  - Led performance optimization projects resulting in a 30% increase in application efficiency.
-  - Developed and maintained high-performance applications in C, C++, Java, JavaScript, and Python.
+- **Technology Architecture - Performance Engineering** at Accenture (2021 - Present)
+  - Led performance optimization projects resulting in improved application efficiency.
 
 ## 📈 Projects
 ### [Project Name 1](https://github.com/your-github-username/project1)
