@@ -34,7 +34,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Angular**
 - **React**
 
-### Machine Learning & Artificial Intelligence
+### [Artificial Intelligence & Machine Learning](https://github.com/bishalgoutam/ArtificialIntelligence-MachineLearning-Portfolio)
 - **Machine Learning Algorithms**
 - **Artificial Intelligence**
 - **Deep Learning**
