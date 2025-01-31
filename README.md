@@ -58,9 +58,9 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - [LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![bishalgoutam](https://github-readme-stats.vercel.app/api?username=bishalgoutam&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalgoutam&layout=compact&theme=radical)
 
 ## 💼 Experience
 - **Technology Architecture - Performance Engineering** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
