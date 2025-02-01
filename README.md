@@ -27,7 +27,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **C++**
 - **Java**
 - **JavaScript**
-- **[Python].(https://github.com/bishalgoutam/python-programming)**
+- **[Python](https://github.com/bishalgoutam/python-programming)**
 
 ### [Web Development](https://github.com/bishalgoutam/FrontendDeveloper-Portfolio)
 - **Vue.js**
