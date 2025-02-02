@@ -64,7 +64,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 
 ## 💼 Experience
 - **Technology Architecture - Performance Engineering** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
-  - Led performance optimization projects resulting in improved application efficiency.
+  - Leading performance optimization projects resulting in improved application efficiency.
 
 ## 📈 Projects
 <!--### [Project Name 1](https://github.com/your-github-username/project1)
