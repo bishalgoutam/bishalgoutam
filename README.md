@@ -50,7 +50,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
   
 ## 📚 Current Studies
 - **Master of Science in Software Development (2022 - Present, Boston University, USA)**
-- **Master of Science in Artificial Intelligence and Machine Learning (2022 - Present, CSU-Global, USA)**
+- **Master of Science in Artificial Intelligence and Machine Learning (2022-2024, CSU-Global, USA)**
 - **Master of Science in Information Systems (2018-2019, FIU, USA)**
 - **Bachelor of Engineering in Electronics and Communication Engineering (2003-2007, VTU, India)**
 
