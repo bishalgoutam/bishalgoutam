@@ -13,7 +13,7 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 - **[Python](https://github.com/bishalgoutam/python-programming)**
 - **[VBScript](https://github.com/bishalgoutam/vbscript-programs)**
 
-### [Web Development](https://github.com/bishalgoutam/FrontendDeveloper-Portfolio)
+### Web Development
 - **[Vue.js](https://github.com/bishalgoutam/vue-programs)**
 - **[Angular](https://github.com/bishalgoutam/angular-programs)**
 - **[React](https://github.com/bishalgoutam/react-programs)**
@@ -60,7 +60,7 @@ Brief description of Project 2.
 
 ## ✍️ Recent Blog Posts
 
-**[bishal @ Medium.com](https://medium.com/@bishalgoutam3)**
+[bishal @ Medium.com](https://medium.com/@bishalgoutam3)
 ---
 
 *Feel free to reach out if you want to collaborate on any exciting projects or just want to chat about tech!*
