@@ -1,20 +1,3 @@
-
-
-<!--
-**bishalgoutam/bishalgoutam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Bishal 👋
 
 ## 🚀 About Me
@@ -58,9 +41,28 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - [LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)
 
 ## 📊 GitHub Stats
-![bishalgoutam](https://github-readme-stats.vercel.app/api?username=bishalgoutam&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalgoutam&layout=compact&theme=radical)
+<div align="center">
+
+### Overall GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishalgoutam&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+### Language Distribution Across All Repositories
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalgoutam&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=10)
+
+### Contribution Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishalgoutam&theme=radical)
+
+### Repository Portfolio
+![AI/ML Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=ArtificialIntelligence-MachineLearning-Portfolio&theme=radical)
+![Performance Engineering](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=PerformanceEngineering-Portfolio&theme=radical)
+![Python Programming](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=python-programming&theme=radical)
+![Frontend Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=FrontendDeveloper-Portfolio&theme=radical)
+
+### Activity Graph
+[![Bishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalgoutam&theme=react-dark&area=true)](https://github.com/bishalgoutam)
+
+</div>
 
 ## 💼 Experience
 - **Technology Architecture - Performance Engineering** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
