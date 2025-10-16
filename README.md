@@ -6,10 +6,10 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 ## 🛠 Skills
 
 ### Programming Languages
-- **C**
+- **[C](https://github.com/bishalgoutam/c-programs)**
 - **[C++](https://github.com/bishalgoutam/cpp-programs)**
-- **Java**
-- **JavaScript**
+- **[Java](https://github.com/bishalgoutam/java-programs)**
+- **[JavaScript](https://github.com/bishalgoutam/javascript-programs)**
 - **[Python](https://github.com/bishalgoutam/python-programming)**
 
 ### [Web Development](https://github.com/bishalgoutam/FrontendDeveloper-Portfolio)
@@ -52,12 +52,6 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 
 ### Contribution Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishalgoutam&theme=radical)
-
-### Repository Portfolio
-![AI/ML Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=ArtificialIntelligence-MachineLearning-Portfolio&theme=radical)
-![Performance Engineering](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=PerformanceEngineering-Portfolio&theme=radical)
-![Python Programming](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=python-programming&theme=radical)
-![Frontend Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bishalgoutam&repo=FrontendDeveloper-Portfolio&theme=radical)
 
 ### Activity Graph
 [![Bishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalgoutam&theme=react-dark&area=true)](https://github.com/bishalgoutam)
