@@ -11,11 +11,12 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 - **[Java](https://github.com/bishalgoutam/java-programs)**
 - **[JavaScript](https://github.com/bishalgoutam/javascript-programs)**
 - **[Python](https://github.com/bishalgoutam/python-programming)**
+- **[VBScript](https://github.com/bishalgoutam/vbscript-programs)**
 
 ### [Web Development](https://github.com/bishalgoutam/FrontendDeveloper-Portfolio)
-- **Vue.js**
-- **Angular**
-- **React**
+- **[Vue.js](https://github.com/bishalgoutam/vue-programs)**
+- **[Angular](https://github.com/bishalgoutam/angular-programs)**
+- **[React](https://github.com/bishalgoutam/react-programs)**
 
 ### [Artificial Intelligence & Machine Learning](https://github.com/bishalgoutam/ArtificialIntelligence-MachineLearning-Portfolio)
 - **Machine Learning Algorithms**
