@@ -1,13 +1,13 @@
 # Hi there, I'm Bishal 👋
 
 ## 🚀 About Me
-I'm a seasoned Software Engineer with 16 years of experience specializing as a Performance Engineer. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. Currently, I'm pursuing my MS in Artificial Intelligence, Machine Learning, and Software Development.
+I'm a seasoned Software Engineer with 16+ years of experience specializing as a Performance Engineer. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. 
 
 ## 🛠 Skills
 
 ### Programming Languages
 - **C**
-- **C++**
+- **[C++](https://github.com/bishalgoutam/cpp-programs)**
 - **Java**
 - **JavaScript**
 - **[Python](https://github.com/bishalgoutam/python-programming)**
@@ -31,8 +31,8 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 - **Automation engineering - HP QTP/UFT, Selenium**
 - **Certified Technology Architect**
   
-## 📚 Current Studies
-- **Master of Science in Software Development (2022 - Present, Boston University, USA)**
+## 📚 Education
+- **Master of Science in Software Development (2022-2025, Boston University, USA)**
 - **Master of Science in Artificial Intelligence and Machine Learning (2022-2024, CSU-Global, USA)**
 - **Master of Science in Information Systems (2018-2019, FIU, USA)**
 - **Bachelor of Engineering in Electronics and Communication Engineering (2003-2007, VTU, India)**
