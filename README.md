@@ -1,7 +1,7 @@
 # Hi there, I'm Bishal 👋
 
 ## 🚀 About Me
-I'm a seasoned Software Engineer with 16+ years of experience specializing as a Performance Engineer. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. 
+I'm a seasoned Software Engineer with 17+ years of experience. I have a deep understanding of various programming languages and a strong passion for developing efficient and scalable software solutions. 
 
 ## 🛠 Skills
 
@@ -43,8 +43,7 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 - [LinkedIn](https://www.linkedin.com/in/bishal-goutam-9139451a/)
 
 ## 💼 Experience
-- **Technology Architecture - Performance Engineering** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
-  - Leading performance optimization projects resulting in improved application efficiency.
+- **Technology Architecture** at Accenture (2021 - Present), KForce (2018-2021), Accenture (2008-2018)
 
 ## 📈 Projects
 <!--### [Project Name 1](https://github.com/your-github-username/project1)
@@ -55,13 +54,11 @@ Brief description of Project 2.
 -->
 
 ## 🌟 Highlights
-- Strong foundation in both theoretical and practical aspects of AI and ML.
-- Extensive knowledge in web development using modern frameworks like Vue, Angular, and React.
-- Proven track record of Software Performance Engineering, optimizing in large-scale applications.
+
 
 ## ✍️ Recent Blog Posts
 
-[bishal @ Medium.com](https://medium.com/@bishalgoutam3)
+**[bishal @ Medium.com](https://medium.com/@bishalgoutam3)**
 ---
 
 *Feel free to reach out if you want to collaborate on any exciting projects or just want to chat about tech!*
