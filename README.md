@@ -19,11 +19,12 @@ I'm a seasoned Software Engineer with 16+ years of experience specializing as a 
 - **[React](https://github.com/bishalgoutam/react-programs)**
 
 ### [Artificial Intelligence & Machine Learning](https://github.com/bishalgoutam/ArtificialIntelligence-MachineLearning-Portfolio)
-- **Machine Learning Algorithms**
-- **Artificial Intelligence**
-- **Deep Learning**
-- **Computer Vision**
-- **Data Science**  
+- **[Machine Learning](https://github.com/bishalgoutam/machine-learning-programs)**
+- **[Artificial Intelligence](https://github.com/bishalgoutam/artificial-intelligence-programs)**
+- **[Deep Learning](https://github.com/bishalgoutam/deep-learning-programs)**
+- **[Computer Vision](https://github.com/bishalgoutam/computer-vision-programs)**
+- **[Data Science](https://github.com/bishalgoutam/data-science-programs)**  
+- **[Natural Language Processing NLP](https://github.com/bishalgoutam/nlp-programs)**
 
 ### [Performance Engineering](https://github.com/bishalgoutam/PerformanceEngineering-Portfolio)
 - **Performance Engineering Methodologies - Web Application, SAP, PeopleSoft, Cloud, Mobile App, APIs**
