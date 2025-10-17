@@ -18,7 +18,7 @@ I'm a seasoned Software Engineer with 17+ years of experience. I have a deep und
 - **[Angular](https://github.com/bishalgoutam/angular-programs)**
 - **[React](https://github.com/bishalgoutam/react-programs)**
 
-### [Artificial Intelligence & Machine Learning](https://github.com/bishalgoutam/ArtificialIntelligence-MachineLearning-Portfolio)
+### Artificial Intelligence & Machine Learning
 - **[Machine Learning](https://github.com/bishalgoutam/machine-learning-programs)**
 - **[Artificial Intelligence](https://github.com/bishalgoutam/artificial-intelligence-programs)**
 - **[Deep Learning](https://github.com/bishalgoutam/deep-learning-programs)**
