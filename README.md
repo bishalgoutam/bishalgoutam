@@ -32,6 +32,10 @@ I'm a seasoned Software Engineer with 17+ years of experience. I have a deep und
 - **Application Monitoring - Dynatrace, AppDynamics, Introscope**
 - **Automation engineering - HP QTP/UFT, Selenium**
 - **Certified Technology Architect**
+
+### Bishal's Tech Lab
+This repository contains some of my personal projects.
+
   
 ## 📚 Education
 - **Master of Science in Software Development (2022-2025, Boston University, USA)**
