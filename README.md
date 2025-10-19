@@ -26,16 +26,18 @@ I'm a seasoned Software Engineer with 17+ years of experience. I have a deep und
 - **[Data Science](https://github.com/bishalgoutam/data-science-programs)**  
 - **[Natural Language Processing NLP](https://github.com/bishalgoutam/nlp-programs)**
 
-### [Performance Engineering](https://github.com/bishalgoutam/PerformanceEngineering-Portfolio)
+### Performance Engineering
+- **[Performance Engineering Repo](https://github.com/bishalgoutam/PerformanceEngineering-Portfolio)**
 - **Performance Engineering Methodologies - Web Application, SAP, PeopleSoft, Cloud, Mobile App, APIs**
 - **Load Testing Tools - LoadRunner, Jmeter, NeoLoad**
 - **Application Monitoring - Dynatrace, AppDynamics, Introscope**
 - **Automation engineering - HP QTP/UFT, Selenium**
 - **Certified Technology Architect**
 
-### [Embedded Systems](https://github.com/bishalgoutam/embedded-systems)
+### Embedded Systems
+- **[Embedded Systems Repo](https://github.com/bishalgoutam/embedded-systems)**
 
-### [VLSI](https://github.com/bishalgoutam/embedded-systems)
+### VLSI
 - **[Verilog](https://github.com/bishalgoutam/verilog-programs)**
 - **[VHDL](https://github.com/bishalgoutam/vhdl-programs)**
 
